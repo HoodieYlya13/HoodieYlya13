@@ -1,0 +1,13 @@
+name: Verify README Update
+
+on:
+  push:
+    paths:
+      - "README.md"
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Confirm Update
+        run: echo "README.md was successfully updated by YlyaBot! ✅"

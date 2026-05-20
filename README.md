@@ -5,36 +5,88 @@
 
   <h1>Hi there, I'm Ylya Martchenko! 👋</h1>
   
-  <h3>Full Stack Developer at Equasens</h3>
+  <h3>Full Stack Developer | Next.JS & React Expert | AI/RAG Enthusiast</h3>
   
   <p>📍 Metz, France | Open to opportunities in LU, CH, or US</p>
+
+  <p>
+    <a href="mailto:ylyamartchenko@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/ylya-martchenko">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.hy13dev.com/">
+      <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.hy13dev.com/Resume_Ylya_Martchenko.pdf">
+      <img src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+    </a>
+  </p>
 </div>
 
 ---
 
 ## 🚀 About Me
-- 💻 Coding since **2019**. 
-- 🧠 Specializing in **Next.JS Expert and React**.
+
+- 💻 Coding since **2019**. Currently working as a **Full Stack Developer at Equasens**.
+- 🧠 Specializing in **Next.JS** and **React**, with a strong focus on integrating **AI/RAG** solutions.
+- 🔭 Passionate about exploring new frontiers: **Cloud, Space Engineering, IoT, and Electronics**.
 - 🗣️ Multilingual: **French (C2), English (C1), Russian (C1)**.
+- 🤝 Soft Skills: Autonomous problem-solver, proactive leader, and new tech enthusiast.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,nodejs,postgres,mysql,docker,python,rust&perline=11" alt="Web and Backend Skills" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,spring,git,github,gitlab,bash,linux,apple,windows&perline=12" alt="Systems and Languages" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.hy13dev.com/api?username=HoodieYlya13&show_icons=true&theme=transparent&hide_border=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed" alt="Ylya's GitHub Stats" />
+  <img src="https://github-readme-stats.hy13dev.com/api/top-langs/?username=HoodieYlya13&layout=compact&theme=transparent&hide_border=true&title_color=3382ed&text_color=ffffff" alt="Top Languages" />
+</p>
 
 ---
 
 ## 💼 Experience & Leadership
+
 <details>
-  <summary><b>💻 Career Timeline</b></summary>
+  <summary><b>💻 Tech & Development</b></summary>
   <br>
   <ul>
-    
-    <li><b>Full Stack Developer @ Equasens</b> <i>(2023-09 - 2026/09)</i><br>Serving as a <strong>Full Stack Developer</strong> with a primary focus on <strong>Front-End</strong> architecture.</li>
-    <li><b>Full Stack Developer (Tech Lead) @ Schumacher-Knepper</b> <i>(2025-06 - 2025/09)</i><br>Endorsed the role of <strong>Tech Lead</strong> for this internship, managing the full development lifecycle of a bespoke e-commerce platform via <strong>Shopify</strong>.</li>
-    <li><b>Interim Missions: Hospitality & Administration @ Various Agencies</b> <i>(2023-06 - 2023/08)</i><br>Executed multi-disciplinary interim missions including <strong>culinary support, service management, and accounting assistance</strong>.</li>
-    <li><b>Metrology Technician & Interim Logistics @ Trescal, Plaqui'Lux, Schumacher-Knepper</b> <i>(2022-04 - 2022/08)</i><br><strong>Metrology Technician (Trescal):</strong> Verified and calibrated precision measurement instruments for the global leader in calibration, gaining expertise in <strong>Force, Torque, and Dimensional analysis</strong>.</li>
-    <li><b>Freelance E-commerce Developer @ Self-Employed</b> <i>(2022-01 - 2022/02)</i><br>Architected and deployed 2 e-commerce websites utilizing <strong>Shopify</strong>. Deeply customized source code via <strong>Liquid</strong> to move beyond generic templates.</li>
-    <li><b>Logistics & Delivery Operations @ UberEats & Deliveroo</b> <i>(2020-06 - 2022/03)</i><br>Managed high-volume, time-sensitive logistics during the Covid-19 pandemic, completing over <strong>5,000 deliveries</strong>.</li>
-    <li><b>Neighborhood Representative (M.Y.C.) @ Metz City Hall</b> <i>(2019-06 - 2021/06)</i><br>Served as a civic liaison for the <strong>Metz Youth Council</strong>, collecting and presenting youth proposals directly to local elected officials.</li>
-    <li><b>President @ Junior Association 2PB</b> <i>(2017-05 - 2021/10)</i><br>Led the organization and promotion of <strong>major community basketball events</strong>, fostering inclusion across generations and skill levels.</li>
-    <li><b>Internship: Citizenship & Participatory Democracy @ Metz City Hall</b> <i>(2015-11 - 2015/12)</i><br>Following the successful basketball court project, I transitioned into an internship with the <strong>participatory democracy team</strong> that turned our vision into reality.</li>
-    <li><b>Community Project Lead @ Metz City Hall</b> <i>(2015)</i><br>Acted as the lead coordinator for a city-scale basketball infrastructure project at only <strong>14 years old</strong>, managing a budget of <strong>€100,000</strong>.</li>
+    <li><b>Full Stack Developer @ Equasens</b> <i>(2023 - 2026)</i><br>Driving front-end architecture using Angular while advocating for React-based modular design patterns.</li>
+    <li><b>Tech Lead @ Schumacher-Knepper</b> <i>(2025)</i><br>Managed the full lifecycle of a bespoke Shopify platform. Engineered robust systems using custom Liquid architecture, established CI/CD pipelines, and implemented strict data-compliance workflows.</li>
+    <li><b>Freelance E-commerce Developer</b> <i>(2022)</i><br>Architected and deployed deeply customized Shopify websites. Proactively ceased operations upon identifying ethical concerns, prioritizing professional integrity.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>⚙️ Engineering & Logistics</b></summary>
+  <br>
+  <ul>
+    <li><b>Metrology Technician @ Trescal</b> <i>(2022)</i><br>Verified and calibrated precision measurement instruments, specializing in Force, Torque, and Dimensional analysis.</li>
+    <li><b>Interim Logistics @ Plaqui'Lux & Schumacher-Knepper</b> <i>(2022)</i><br>Managed operations focusing on high-precision output and industrial workflow efficiency.</li>
+    <li><b>Logistics Operations @ UberEats & Deliveroo</b> <i>(2020 - 2022)</i><br>Completed over 5,000 deliveries during the Covid-19 pandemic, maintaining a 98% satisfaction rate.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🌱 Early Leadership & Civic Impact</b></summary>
+  <br>
+  <ul>
+    <li><b>Community Project Lead @ Metz City Hall</b> <i>(2015)</i><br>At <b>14 years old</b>, successfully led a €100,000 city-scale basketball infrastructure project, presenting 3D models and securing 35% funding from GRDF.</li>
+    <li><b>Intern @ Metz City Hall</b> <i>(2015)</i><br>Contributed to participatory democracy initiatives, overseeing citizen projects valued up to €1,000,000.</li>
+    <li><b>President @ Junior Association 2PB</b> <i>(2017 - 2021)</i><br>Organized major community basketball events fostering cross-generational inclusion.</li>
   </ul>
 </details>
 
@@ -43,9 +95,6 @@
 ## 🎓 Education
 
 - **Engineer in IARN (Informatics, Automatic, Robotics, Networks)** | _Polytech Nancy (2023 - 2026)_
-
-- **Diploma of Higher Education in Engineering Science** | _F.R.U. Mathematics, computer science, mechanics (2022 - 2023)_
-
-- **BTEC Higher National Diploma in Physics Measures** | _U.I.T. Department of Measures (2021 - 2022)_
-
-- **PeiP (Polytech engineering schools course)** | _Polytech Nancy (2019 - 2021)_
+- **Diploma of Higher Education in Engineering Science** | _F.R.U. (2022 - 2023)_
+- **BTEC Higher National Diploma in Physics Measures** | _U.I.T. (2021 - 2022)_
+- **PeiP Preparatory Cycle** | _Polytech Nancy (2019 - 2021)_
