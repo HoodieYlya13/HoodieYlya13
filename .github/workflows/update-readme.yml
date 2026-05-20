@@ -1,5 +1,3 @@
-# Trigger build
-
 name: Update README from JSON
 
 on:
