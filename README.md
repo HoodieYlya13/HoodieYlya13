@@ -30,7 +30,7 @@
 ## 🚀 About Me
 
 - 💻 Coding since **2019**. Currently working as a **Full Stack Developer at Equasens**.
-- 🧠 Specializing in **Next.JS Expert and React**, with a strong focus on integrating **AI/RAG** solutions.
+- 🧠 Specializing in **Next.JS and React Expert**, with a strong focus on integrating **AI/RAG** solutions.
 - 🔭 Passionate about exploring new frontiers: **Cloud, Space Engineering, IoT, and Electronics**.
 - 🗣️ Multilingual: **French (C2), English (C1), Russian (C1)**.
 - 🤝 Soft Skills: autonomous problem-solver, proactive leader, and new tech enthusiast.
