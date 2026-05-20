@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.hy13dev.com/">
+  <a href="https://www.hy13dev.com">
     <img src="https://www.hy13dev.com/logo.png" alt="Ylya Martchenko Logo" width="150" />
   </a>
 
@@ -17,7 +17,7 @@
     <a href="https://www.linkedin.com/in/ylya-martchenko">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://www.hy13dev.com/">
+    <a href="https://www.hy13dev.com">
       <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.hy13dev.com/Resume_Ylya_Martchenko.pdf">
