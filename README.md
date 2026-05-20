@@ -7,7 +7,7 @@
   
   <h3>Full Stack Developer | Software Engineer | Next.JS & React Expert | AI/RAG Enthusiast</h3>
   
-  <p>📍 Metz, France | Open to opportunities in LU, CH, US</p>
+  <p>📍 Metz, France | Open to opportunities in Luxembourg, Switzerland, North America</p>
   <p>🎯 Interests: <i>Web Dev • AI/RAG • Cloud • Space Engineering • IoT • Electronics</i></p>
 
   <p>
