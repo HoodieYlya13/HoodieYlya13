@@ -75,12 +75,12 @@
     {
       "name": "LinkedIn",
       "value": "https://www.linkedin.com/in/ylya-martchenko",
-      "icon": "Linkedin"
+      "icon": "LinkedinIcon"
     },
     {
       "name": "GitHub",
       "value": "https://github.com/HoodieYlya13",
-      "icon": "Github"
+      "icon": "GithubIcon"
     }
   ],
   "education": [
@@ -211,7 +211,7 @@
     }
   ],
   "links": {
-    "portfolio": "https://www.hy13dev.com/",
+    "portfolio": "https://www.hy13dev.com",
     "resume": "https://www.hy13dev.com/Resume_Ylya_Martchenko.pdf"
   }
 }
