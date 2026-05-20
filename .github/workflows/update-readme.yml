@@ -1,0 +1,33 @@
+name: Update README from JSON
+
+on:
+  push:
+    paths:
+      - "profile.json"
+      - "build.js"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run Build Script
+        run: node build.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add README.md
+
+          # Only commit if there are actual changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update README via profile.json" && git push)
