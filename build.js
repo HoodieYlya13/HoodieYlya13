@@ -5,8 +5,14 @@ const profile = JSON.parse(rawData);
 
 const formatPeriod = (period) => {
   if (!period.includes("-")) return period;
+  
   const [start, end] = period.split(" - ");
-  return `${start.split("/")[0]} - ${end.split("/")[0]}`;
+  const startYear = start.split("/")[0];
+  const endYear = end.split("/")[0];
+  
+  if (startYear === endYear) return startYear;
+  
+  return `${startYear} - ${endYear}`;
 };
 
 const formatExp = (exp) => {
