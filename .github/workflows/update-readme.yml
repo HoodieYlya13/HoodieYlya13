@@ -5,6 +5,7 @@ on:
     paths:
       - "profile.json"
       - "build.js"
+      - ".github/workflows/update-readme.yml"
   workflow_dispatch:
 
 permissions:
