@@ -1,0 +1,207 @@
+{
+  "personal_info": {
+    "full_name": "Ylya Martchenko",
+    "birthday": "2001-04-28",
+    "nationality": "French",
+    "current_location": "Metz, France",
+    "status": "Full Stack Developer at Equasens"
+  },
+  "professional_summary": {
+    "coding_experience_since": 2019,
+    "roles": ["Software Engineer", "Full Stack Developer"],
+    "specializations": ["Next.JS Expert", "React"],
+    "languages": ["French (C2)", "English (C1)", "Russian (C1)"],
+    "availability": "Open to opportunities in LU, CH, or US. Interested in Web Dev, AI/RAG, Cloud, Space Engineering, IoT, and Electronics."
+  },
+  "skills": {
+    "technical_stack": [
+      "Next.JS",
+      "React",
+      "Angular",
+      "Liquid",
+      "TypeScript",
+      "JavaScript",
+      "PostgreSQL",
+      "MySQL",
+      "Docker",
+      "AI/RAG"
+    ],
+    "languages_and_tools": [
+      "Python",
+      "C",
+      "C++",
+      "C#",
+      "Java",
+      "Rust",
+      "Spring Boot",
+      "Node.JS",
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Linux",
+      "MacOS",
+      "Windows",
+      "Bash"
+    ],
+    "soft_skills": [
+      "Autonomous",
+      "Problem-solver",
+      "Proactive",
+      "Leader",
+      "New Tech Enthusiast"
+    ]
+  },
+  "contacts": [
+    {
+      "name": "Email",
+      "value": "ylyamartchenko@gmail.com",
+      "icon": "Mail"
+    },
+    {
+      "name": "Phone",
+      "value": "+33699723579",
+      "icon": "Phone"
+    },
+    {
+      "name": "LinkedIn",
+      "value": "https://www.linkedin.com/in/ylya-martchenko",
+      "icon": "Linkedin"
+    },
+    {
+      "name": "GitHub",
+      "value": "https://github.com/HoodieYlya13",
+      "icon": "Github"
+    }
+  ],
+  "education": [
+    {
+      "year": "2023 - 2026",
+      "title": "Engineer in IARN (Informatics, Automatic, Robotics, Networks)",
+      "school": "Polytech Nancy",
+      "location": "Vandœuvre-lès-Nancy",
+      "description": "Specializing in computer science, automation, robotics, and networks. This advanced engineering degree focuses on integrating software with hardware systems.",
+      "is_hero": true
+    },
+    {
+      "year": "2022 - 2023",
+      "title": "Diploma of Higher Education in Engineering Science",
+      "school": "F.R.U. Mathematics, computer science, mechanics",
+      "location": "Metz",
+      "description": "Focused on foundational engineering principles including advanced mathematics, computer science fundamentals, and classical mechanics."
+    },
+    {
+      "year": "2021 - 2022",
+      "title": "BTEC Higher National Diploma in Physics Measures",
+      "school": "U.I.T. Department of Measures",
+      "location": "Metz",
+      "description": "Studies in physical measurements, instrumentation, and applied physics. Developed strong practical skills in data acquisition and analysis."
+    },
+    {
+      "year": "2019 - 2021",
+      "title": "PeiP (Polytech engineering schools course)",
+      "school": "Polytech Nancy",
+      "location": "Vandœuvre-lès-Nancy",
+      "description": "Preparatory cycle for the Polytech network engineering schools, focusing on intensive mathematics, physics, and introductory engineering concepts."
+    }
+  ],
+  "experience": [
+    {
+      "period": "2023/09 - 2026/09",
+      "title": "Full Stack Developer",
+      "organization": "Equasens | Villers-lès-Nancy",
+      "description": [
+        "Serving as a <strong>Full Stack Developer</strong> with a primary focus on <strong>Front-End</strong> architecture.",
+        "Developing enterprise applications using the <strong>Angular</strong> framework while advocating for <strong>React</strong>-based architectural improvements and modular design patterns."
+      ]
+    },
+    {
+      "period": "2025/06 - 2025/09",
+      "title": "Full Stack Developer (Tech Lead)",
+      "organization": "Schumacher-Knepper | Wintrange, Luxembourg",
+      "description": [
+        "Endorsed the role of <strong>Tech Lead</strong> for this internship, managing the full development lifecycle of a bespoke e-commerce platform via <strong>Shopify</strong>.",
+        "Engineered a robust system using <strong>metaobjects, metafields, and custom collections</strong>. Implemented a legally-compliant <strong>age verification and data-storage workflow</strong>. Established a professional CI/CD pipeline with <strong>staging/production environments</strong> and <strong>SEO-optimized</strong> architecture using <strong>Liquid</strong>."
+      ],
+      "additional_info": {
+        "project_url": "https://www.hy13dev.com/projects/schumacher-knepper-theme-dev",
+        "note": "Development fork used for staging. (password: 123)"
+      }
+    },
+    {
+      "period": "2023/06 - 2023/08",
+      "title": "Interim Missions: Hospitality & Administration",
+      "organization": "Various Agencies | Luxembourg",
+      "description": [
+        "Executed multi-disciplinary interim missions including <strong>culinary support, service management, and accounting assistance</strong>.",
+        "Demonstrated high adaptability and operational efficiency in fast-paced professional environments."
+      ]
+    },
+    {
+      "period": "2022/04 - 2022/08",
+      "title": "Metrology Technician & Interim Logistics",
+      "organization": "Trescal, Plaqui'Lux, Schumacher-Knepper",
+      "description": [
+        "<strong>Metrology Technician (Trescal):</strong> Verified and calibrated precision measurement instruments for the global leader in calibration, gaining expertise in <strong>Force, Torque, and Dimensional analysis</strong>.",
+        "<strong>Interim Logistics (Plaqui'Lux/Schumacher-Knepper):</strong> Managed construction and bottling operations, focusing on <strong>high-precision output</strong> and efficient industrial workflows."
+      ]
+    },
+    {
+      "period": "2022/01 - 2022/02",
+      "title": "Freelance E-commerce Developer",
+      "organization": "Self-Employed",
+      "description": [
+        "Architected and deployed 2 e-commerce websites utilizing <strong>Shopify</strong>. Deeply customized source code via <strong>Liquid</strong> to move beyond generic templates.",
+        "Proactively ceased operations after identifying <strong>ethical concerns</strong> with the business model, demonstrating strong professional integrity."
+      ]
+    },
+    {
+      "period": "2020/06 - 2022/03",
+      "title": "Logistics & Delivery Operations",
+      "organization": "UberEats & Deliveroo | Metz, France",
+      "description": [
+        "Managed high-volume, time-sensitive logistics during the Covid-19 pandemic, completing over <strong>5,000 deliveries</strong>.",
+        "Maintained a <strong>98% customer satisfaction rate</strong> through consistent reliability and high-standard service."
+      ]
+    },
+    {
+      "period": "2019/06 - 2021/06",
+      "title": "Neighborhood Representative (M.Y.C.)",
+      "organization": "Metz City Hall",
+      "description": [
+        "Served as a civic liaison for the <strong>Metz Youth Council</strong>, collecting and presenting youth proposals directly to local elected officials.",
+        "Promoted active citizenship and fostered initiatives to increase engagement between local youth and public institutions."
+      ]
+    },
+    {
+      "period": "2017/05 - 2021/10",
+      "title": "President",
+      "organization": "Junior Association 2PB",
+      "description": [
+        "Led the organization and promotion of <strong>major community basketball events</strong>, fostering inclusion across generations and skill levels.",
+        "Demonstrated <strong>early-stage leadership</strong> by managing group operations and event logistics, proving a strong commitment to local community development."
+      ]
+    },
+    {
+      "period": "2015/11 - 2015/12",
+      "title": "Internship: Citizenship & Participatory Democracy",
+      "organization": "Metz City Hall",
+      "description": [
+        "Following the successful basketball court project, I transitioned into an internship with the <strong>participatory democracy team</strong> that turned our vision into reality.",
+        "Contributed to high-level meetings regarding the <strong>\"participatory budget plan,\"</strong> overseeing citizen projects with valuations up to <strong>€1,000,000</strong>. Facilitated engagement meetings with citizens to vet new community proposals."
+      ]
+    },
+    {
+      "period": "2015",
+      "title": "Community Project Lead",
+      "organization": "Metz City Hall",
+      "description": [
+        "Acted as the lead coordinator for a city-scale basketball infrastructure project at only <strong>14 years old</strong>, managing a budget of <strong>€100,000</strong>.",
+        "Presented 3D models and cost estimates to elected officials, successfully securing a 35% funding partnership with GRDF."
+      ]
+    }
+  ],
+  "links": {
+    "portfolio": "https://www.hy13dev.com/",
+    "resume": "https://www.hy13dev.com/Resume_Ylya_Martchenko.pdf"
+  }
+}
