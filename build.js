@@ -50,6 +50,11 @@ const educationHTML = profile.education
   )
   .join("\n");
 
+const locations =
+  profile.professional_summary.availability.locations_interest.join(", ");
+const fields =
+  profile.professional_summary.availability.fields_interest.join(" • ");
+
 const readmeContent = `
 <div align="center">
   <a href="${profile.links.portfolio}">
@@ -60,7 +65,8 @@ const readmeContent = `
   
   <h3>Full Stack Developer | Software Engineer | Next.JS & React Expert | AI/RAG Enthusiast</h3>
   
-  <p>📍 ${profile.personal_info.current_location} | Open to opportunities in LU, CH, or US</p>
+  <p>📍 ${profile.personal_info.current_location} | Open to opportunities in ${locations}</p>
+  <p>🎯 Interests: <i>${fields}</i></p>
 
   <p>
     <a href="mailto:${profile.contacts.find((c) => c.name === "Email").value}">
