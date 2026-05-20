@@ -1,3 +1,4 @@
+# Trigger rebuild
 name: Update README from JSON
 
 on:
