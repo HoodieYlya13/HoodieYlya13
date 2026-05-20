@@ -5,13 +5,13 @@ const profile = JSON.parse(rawData);
 
 const formatPeriod = (period) => {
   if (!period.includes("-")) return period;
-  
+
   const [start, end] = period.split(" - ");
   const startYear = start.split("/")[0];
   const endYear = end.split("/")[0];
-  
+
   if (startYear === endYear) return startYear;
-  
+
   return `${startYear} - ${endYear}`;
 };
 
@@ -58,7 +58,7 @@ const readmeContent = `
 
   <h1>Hi there, I'm ${profile.personal_info.full_name}! 👋</h1>
   
-  <h3>Full Stack Developer | Next.JS & React Expert | AI/RAG Enthusiast</h3>
+  <h3>${profile.professional_summary.roles[0]} | ${profile.professional_summary.specializations.join(" & ")} | AI/RAG Enthusiast</h3>
   
   <p>📍 ${profile.personal_info.current_location} | Open to opportunities in LU, CH, or US</p>
 
