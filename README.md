@@ -5,7 +5,7 @@
 
   <h1>Hi there, I'm Ylya Martchenko! 👋</h1>
   
-  <h3>Full Stack Developer | Software Engineer | Next.JS Expert | React Expert | AI/RAG Enthusiast</h3>
+  <h3>Full Stack Developer | Software Engineer | Next.JS & React Expert | AI/RAG Enthusiast</h3>
   
   <p>📍 Metz, France | Open to opportunities in LU, CH, or US</p>
 
