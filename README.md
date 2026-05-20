@@ -5,7 +5,7 @@
 
   <h1>Hi there, I'm Ylya Martchenko! 👋</h1>
   
-  <h3>Full Stack Developer | Next.JS & React Expert | AI/RAG Enthusiast</h3>
+  <h3>Full Stack Developer | Software Engineer | Next.JS Expert | React Expert | AI/RAG Enthusiast</h3>
   
   <p>📍 Metz, France | Open to opportunities in LU, CH, or US</p>
 
@@ -30,7 +30,7 @@
 ## 🚀 About Me
 
 - 💻 Coding since **2019**. Currently working as a **Full Stack Developer at Equasens**.
-- 🧠 Specializing in **Next.JS and React Expert**, with a strong focus on integrating **AI/RAG** solutions.
+- 🧠 Specializing in **Next.JS Expert and React Expert and AI/RAG Enthusiast**, with a strong focus on integrating **AI/RAG** solutions.
 - 🔭 Passionate about exploring new frontiers: **Cloud, Space Engineering, IoT, and Electronics**.
 - 🗣️ Multilingual: **French (C2), English (C1), Russian (C1)**.
 - 🤝 Soft Skills: autonomous problem-solver, proactive leader, and new tech enthusiast.
