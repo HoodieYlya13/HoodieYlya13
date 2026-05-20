@@ -58,7 +58,7 @@ const readmeContent = `
 
   <h1>Hi there, I'm ${profile.personal_info.full_name}! 👋</h1>
   
-  <h3>${profile.professional_summary.roles[0]} | ${profile.professional_summary.specializations.join(" & ")} | AI/RAG Enthusiast</h3>
+  <h3>${[...profile.professional_summary.roles, ...profile.professional_summary.specializations].join(" | ")}</h3>
   
   <p>📍 ${profile.personal_info.current_location} | Open to opportunities in LU, CH, or US</p>
 
