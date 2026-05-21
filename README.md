@@ -65,9 +65,9 @@
   <summary><b>💻 Tech & Development</b></summary>
   <br>
   <ul>
-    <li><b>Full Stack Developer @ Equasens</b> <i>(2023 - 2026)</i><br>Serving as a **Full Stack Developer** with a primary focus on scaling **Front-End** architecture using **Angular**, while advocating for **React**-based modular design patterns.</li>
-    <li><b>Full Stack Developer (Tech Lead) @ Schumacher-Knepper</b> <i>(2025)</i><br>Endorsed the role of **Tech Lead** for this internship, managing the full development lifecycle of a bespoke e-commerce platform via **Shopify**.</li>
-    <li><b>Freelance E-commerce Developer @ Self-Employed</b> <i>(2022)</i><br>Architected and deployed 2 e-commerce websites utilizing **Shopify**. Deeply customized source code via **Liquid** to move beyond generic templates.</li>
+    <li><b>Full Stack Developer @ Equasens</b> <i>(2023 - 2026)</i><br>Serving as a <b>Full Stack Developer</b> with a primary focus on scaling <b>Front-End</b> architecture using <b>Angular</b>, while advocating for <b>React</b>-based modular design patterns.</li>
+    <li><b>Full Stack Developer (Tech Lead) @ Schumacher-Knepper</b> <i>(2025)</i><br>Endorsed the role of <b>Tech Lead</b> for this internship, managing the full development lifecycle of a bespoke e-commerce platform via <b>Shopify</b>.</li>
+    <li><b>Freelance E-commerce Developer @ Self-Employed</b> <i>(2022)</i><br>Architected and deployed 2 e-commerce websites utilizing <b>Shopify</b>. Deeply customized source code via <b>Liquid</b> to move beyond generic templates.</li>
   </ul>
 </details>
 
@@ -75,9 +75,9 @@
   <summary><b>⚙️ Engineering & Logistics</b></summary>
   <br>
   <ul>
-    <li><b>Metrology Technician & Interim Logistics @ Trescal, Plaqui'Lux, Schumacher-Knepper</b> <i>(2022)</i><br>**Metrology Technician (Trescal):** Verified and calibrated precision measurement instruments for the global leader in calibration, gaining expertise in **Force, Torque, and Dimensional analysis**.</li>
-    <li><b>Interim Missions: Hospitality & Administration @ Various Agencies</b> <i>(2023)</i><br>Executed multi-disciplinary interim missions including **culinary support, service management, and accounting assistance**.</li>
-    <li><b>Logistics & Delivery Operations @ UberEats & Deliveroo</b> <i>(2020 - 2022)</i><br>Managed high-volume, time-sensitive logistics during the Covid-19 pandemic, completing over **5,000 deliveries**.</li>
+    <li><b>Metrology Technician & Interim Logistics @ Trescal, Plaqui'Lux, Schumacher-Knepper</b> <i>(2022)</i><br><b>Metrology Technician (Trescal):</b> Verified and calibrated precision measurement instruments for the global leader in calibration, gaining expertise in <b>Force, Torque, and Dimensional analysis</b>.</li>
+    <li><b>Interim Missions: Hospitality & Administration @ Various Agencies</b> <i>(2023)</i><br>Executed multi-disciplinary interim missions including <b>culinary support, service management, and accounting assistance</b>.</li>
+    <li><b>Logistics & Delivery Operations @ UberEats & Deliveroo</b> <i>(2020 - 2022)</i><br>Managed high-volume, time-sensitive logistics during the Covid-19 pandemic, completing over <b>5,000 deliveries</b>.</li>
   </ul>
 </details>
 
@@ -85,10 +85,10 @@
   <summary><b>🌱 Early Leadership & Civic Impact</b></summary>
   <br>
   <ul>
-    <li><b>Community Project Lead @ Metz City Hall</b> <i>(2015)</i><br>Acted as the lead coordinator for a city-scale basketball infrastructure project at only **14 years old**, managing a budget of **€100,000**.</li>
-    <li><b>Internship: Citizenship & Participatory Democracy @ Metz City Hall</b> <i>(2015)</i><br>Following the successful basketball court project, I transitioned into an internship with the **participatory democracy team** that turned our vision into reality.</li>
-    <li><b>President @ Junior Association 2PB</b> <i>(2017 - 2021)</i><br>Led the organization and promotion of **major community basketball events**, fostering inclusion across generations and skill levels.</li>
-    <li><b>Neighborhood Representative (M.Y.C.) @ Metz City Hall</b> <i>(2019 - 2021)</i><br>Served as a civic liaison for the **Metz Youth Council**, collecting and presenting youth proposals directly to local elected officials.</li>
+    <li><b>Community Project Lead @ Metz City Hall</b> <i>(2015)</i><br>Acted as the lead coordinator for a city-scale basketball infrastructure project at only <b>14 years old</b>, managing a budget of <b>€100,000</b>.</li>
+    <li><b>Internship: Citizenship & Participatory Democracy @ Metz City Hall</b> <i>(2015)</i><br>Following the successful basketball court project, I transitioned into an internship with the <b>participatory democracy team</b> that turned our vision into reality.</li>
+    <li><b>President @ Junior Association 2PB</b> <i>(2017 - 2021)</i><br>Led the organization and promotion of <b>major community basketball events</b>, fostering inclusion across generations and skill levels.</li>
+    <li><b>Neighborhood Representative (M.Y.C.) @ Metz City Hall</b> <i>(2019 - 2021)</i><br>Served as a civic liaison for the <b>Metz Youth Council</b>, collecting and presenting youth proposals directly to local elected officials.</li>
   </ul>
 </details>
 
