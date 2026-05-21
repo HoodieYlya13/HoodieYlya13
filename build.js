@@ -16,7 +16,11 @@ const formatPeriod = (period) => {
 };
 
 const formatExp = (exp) => {
-  return `    <li><b>${exp.role} @ ${exp.company}</b> <i>(${formatPeriod(exp.range)})</i><br>${exp.bullets[0]}</li>`;
+  if (!exp || !exp.bullets || exp.bullets.length === 0) return "";
+
+  const formattedBullet = exp.bullets[0].replace(/\*\*(.*?)\*\*/g, "<b>$1</b>");
+
+  return `    <li><b>${exp.role} @ ${exp.company}</b> <i>(${formatPeriod(exp.range)})</i><br>${formattedBullet}</li>`;
 };
 
 const techExp = [
