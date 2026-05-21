@@ -31,7 +31,7 @@
 ## 🚀 About Me
 
 - 💻 Coding since **2019**. Currently working as a **Full Stack Developer at Equasens**.
-- 🧠 Specializing in **GenAI & RAG Systems Engineer** and **undefined**, with an intense focus on scaling architectures.
+- 🧠 Specializing in **Next.js & React Expert** and **GenAI & RAG Systems Engineer**, with an intense focus on scaling architectures.
 - 🔭 Passionate about exploring new frontiers: **Cloud, Space Engineering, IoT, and Electronics**.
 - 🗣️ Multilingual: **French (C2), English (C1), Russian (C1)**.
 - 🤝 Leadership & Execution: autonomous execution, technical problem-solving, proactive ownership, engineering leadership, and emerging tech adaptability.
