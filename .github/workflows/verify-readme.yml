@@ -4,10 +4,26 @@ on:
   push:
     paths:
       - "README.md"
+      - "profile.json"
 
 jobs:
   verify:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Validate Markdown Content
+        run: |
+          if [ ! -s README.md ]; then
+            echo "❌ Error: README.md is empty!"
+            exit 1
+          fi
+
+          if ! grep -q "hy13dev.com/logo.png" README.md; then
+            echo "❌ Error: Expected profile components missing from README.md!"
+            exit 1
+          fi
+
       - name: Confirm Update
-        run: echo "README.md was successfully updated by YlyaBot! ✅"
+        run: echo "Profile and README architecture successfully verified by YlyaBot! ✅"

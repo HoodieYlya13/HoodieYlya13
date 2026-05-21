@@ -1,10 +1,13 @@
-name: Update README from JSON
+name: Update Profile and README
 
 on:
+  schedule:
+    - cron: "0 0 * * *"
   push:
     paths:
       - "profile.json"
       - "build.js"
+      - "sync-pins.js"
       - ".github/workflows/update-readme.yml"
   workflow_dispatch:
 
@@ -19,12 +22,17 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PAT_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "24"
+
+      - name: Sync GitHub Pinned Repos to JSON
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
+        run: node sync-pins.js
 
       - name: Run Build Script
         run: node build.js
@@ -33,7 +41,7 @@ jobs:
         run: |
           git config --local user.email "ylyamartchenko@gmail.com"
           git config --local user.name "YlyaBot"
-          git add README.md
+          
+          git add profile.json README.md
 
-          # Only commit if there are actual changes
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update README via profile.json" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-sync profile pins & build README" && git push)
