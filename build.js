@@ -73,7 +73,7 @@ const readmeContent = `
     <img src="https://www.hy13dev.com/logo.png" alt="Ylya Martchenko Logo" width="150" />
   </a>
 
-  <h1>Hi there, I'm ${profile.identity.name}! 👋</h1>
+  <h1>Hi there, I'm ${profile.identity.full_name}! 👋</h1>
   
   <h3>${profile.hero_marquee.join(" | ")}</h3>
   
