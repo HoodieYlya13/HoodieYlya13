@@ -16,69 +16,77 @@ const formatPeriod = (period) => {
 };
 
 const formatExp = (exp) => {
-  const orgName = exp.organization.split(" | ")[0];
-  return `    <li><b>${exp.title} @ ${orgName}</b> <i>(${formatPeriod(exp.period)})</i><br>${exp.description[0]}</li>`;
+  return `    <li><b>${exp.role} @ ${exp.company}</b> <i>(${formatPeriod(exp.range)})</i><br>${exp.bullets[0]}</li>`;
 };
 
 const techExp = [
-  profile.experience[0],
-  profile.experience[1],
-  profile.experience[4],
-]
-  .map(formatExp)
-  .join("\n");
-const logExp = [
-  profile.experience[3],
-  profile.experience[2],
-  profile.experience[5],
-]
-  .map(formatExp)
-  .join("\n");
-const leadExp = [
-  profile.experience[9],
-  profile.experience[8],
-  profile.experience[7],
-  profile.experience[6],
+  profile.timeline_engineering[0],
+  profile.timeline_engineering[1],
+  profile.timeline_engineering[2],
 ]
   .map(formatExp)
   .join("\n");
 
-const educationHTML = profile.education
+const logExp = [
+  profile.timeline_foundational[1],
+  profile.timeline_foundational[0],
+  profile.timeline_foundational[2],
+]
+  .map(formatExp)
+  .join("\n");
+
+const leadExp = [
+  profile.timeline_foundational[6],
+  profile.timeline_foundational[5],
+  profile.timeline_foundational[4],
+  profile.timeline_foundational[3],
+]
+  .map(formatExp)
+  .join("\n");
+
+const educationHTML = profile.academic_history
   .map(
     (edu) =>
-      `- **${edu.title}** | _${edu.school.split(" Mathematics")[0].split(" Department")[0]} (${edu.year})_`,
+      `- **${edu.degree}** | _${edu.institution.split(" Mathematics")[0].split(" Department")[0]} (${edu.range})_`,
   )
   .join("\n");
 
-const locations =
-  profile.professional_summary.availability.locations_interest.join(", ");
-const fields =
-  profile.professional_summary.availability.fields_interest.join(" • ");
+const locations = profile.placement_preferences.target_regions.join(", ");
+const fields = profile.placement_preferences.technical_domains.join(" • ");
+
+const findChannel = (platform) =>
+  profile.communication.channels.find((c) => c.platform === platform).value;
+
+const traits = profile.skills_matrix.leadership_traits;
+const formattedTraits = `${traits
+  .slice(0, -1)
+  .map((t) => t.toLowerCase())
+  .join(", ")}, and ${traits[traits.length - 1].toLowerCase()}`;
 
 const readmeContent = `
 <div align="center">
-  <a href="${profile.links.portfolio}">
+  <a href="${profile.communication.links.live_portfolio}">
     <img src="https://www.hy13dev.com/logo.png" alt="Ylya Martchenko Logo" width="150" />
   </a>
 
-  <h1>Hi there, I'm ${profile.personal_info.full_name}! 👋</h1>
+  <h1>Hi there, I'm ${profile.identity.name}! 👋</h1>
   
-  <h3>Full Stack Developer | Software Engineer | Next.JS & React Expert | AI/RAG Enthusiast</h3>
+  <h3>${profile.hero_marquee.join(" | ")}</h3>
   
-  <p>📍 ${profile.personal_info.current_location} | Open to opportunities in ${locations}</p>
+  <p>📍 ${profile.identity.current_location} | Open to opportunities in ${locations} (${profile.placement_preferences.preference})</p>
   <p>🎯 Interests: <i>${fields}</i></p>
 
   <p>
-    <a href="mailto:${profile.contacts.find((c) => c.name === "Email").value}">
+    <a href="mailto:${findChannel("Email")}">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="${profile.contacts.find((c) => c.name === "LinkedIn").value}">
+    <a href="${findChannel("LinkedIn")}">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="${profile.links.portfolio}">
+    <a href="${profile.communication.links.live_portfolio}">
       <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="${profile.links.resume}">
+    <a href="${profile.communication.links.downloadable_resume}">
       <img src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
     </a>
   </p>
@@ -88,11 +96,11 @@ const readmeContent = `
 
 ## 🚀 About Me
 
-- 💻 Coding since **${profile.professional_summary.coding_experience_since}**. Currently working as a **${profile.personal_info.status}**.
-- 🧠 Specializing in **${profile.professional_summary.specializations.join(" and ")}**, with a strong focus on integrating **AI/RAG** solutions.
+- 💻 Coding since **${profile.identity.coding_experience_since}**. Currently working as a **${profile.identity.current_status}**.
+- 🧠 Specializing in **${profile.hero_marquee[3]}** and **${profile.hero_marquee[4]}**, with an intense focus on scaling architectures.
 - 🔭 Passionate about exploring new frontiers: **Cloud, Space Engineering, IoT, and Electronics**.
-- 🗣️ Multilingual: **${profile.professional_summary.languages.join(", ")}**.
-- 🤝 Soft Skills: ${profile.skills.soft_skills.slice(0, 2).join(" ").toLowerCase()}, ${profile.skills.soft_skills[2].toLowerCase()} ${profile.skills.soft_skills[3].toLowerCase()}, and ${profile.skills.soft_skills[4].toLowerCase()}.
+- 🗣️ Multilingual: **${profile.communication.languages.map((l) => `${l.name} (${l.cefr})`).join(", ")}**.
+- 🤝 Leadership & Execution: ${formattedTraits}.
 
 ---
 
