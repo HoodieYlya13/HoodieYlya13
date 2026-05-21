@@ -15,9 +15,21 @@
   ],
   "communication": {
     "languages": [
-      { "name": "French", "cefr": "C2", "label": "Native" },
-      { "name": "English", "cefr": "C1", "label": "Professional Fluent" },
-      { "name": "Russian", "cefr": "C1", "label": "Mother tongue" }
+      {
+        "name": "French",
+        "cefr": "C2",
+        "label": "Native"
+      },
+      {
+        "name": "English",
+        "cefr": "C1",
+        "label": "Professional Fluent"
+      },
+      {
+        "name": "Russian",
+        "cefr": "C1",
+        "label": "Mother tongue"
+      }
     ],
     "channels": [
       {
@@ -25,7 +37,11 @@
         "value": "ylyamartchenko@gmail.com",
         "icon": "Mail"
       },
-      { "platform": "Phone", "value": "+33699723579", "icon": "Phone" },
+      {
+        "platform": "Phone",
+        "value": "+33699723579",
+        "icon": "Phone"
+      },
       {
         "platform": "LinkedIn",
         "value": "https://www.linkedin.com/in/ylya-martchenko",
@@ -43,7 +59,11 @@
     }
   },
   "placement_preferences": {
-    "target_regions": ["Luxembourg", "Switzerland", "North America"],
+    "target_regions": [
+      "Luxembourg",
+      "Switzerland",
+      "North America"
+    ],
     "preference": "Hybrid / Remote",
     "technical_domains": [
       "Web Dev",
@@ -70,7 +90,14 @@
       "GraphQL",
       "REST API"
     ],
-    "polyglot_languages": ["Python", "C", "C++", "C#", "Java", "Rust"],
+    "polyglot_languages": [
+      "Python",
+      "C",
+      "C++",
+      "C#",
+      "Java",
+      "Rust"
+    ],
     "devops_and_systems": [
       "Docker",
       "Bash",
@@ -79,7 +106,9 @@
       "Windows",
       "Liquid"
     ],
-    "ai_engineering": ["AI/RAG Engineering"],
+    "ai_engineering": [
+      "AI/RAG Engineering"
+    ],
     "ecosystem_tools": [
       "Git",
       "GitHub",
@@ -239,6 +268,14 @@
     }
   ],
   "showcased_repositories": [
+    "codemafia",
+    "insta-v2",
+    "schumacher-knepper-theme-dev",
+    "vibe-heist",
+    "poly-livre-fullstack",
+    "dockercraft"
+  ],
+  "pinned_repositories": [
     "codemafia",
     "insta-v2",
     "schumacher-knepper-theme-dev",
