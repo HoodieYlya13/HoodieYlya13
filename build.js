@@ -101,7 +101,7 @@ const readmeContent = `
 ## 🚀 About Me
 
 - 💻 Coding since **${profile.identity.coding_experience_since}**. Currently working as a **${profile.identity.current_status}**.
-- 🧠 Specializing in **${profile.hero_marquee[3]}** and **${profile.hero_marquee[4]}**, with an intense focus on scaling architectures.
+- 🧠 Specializing in **${profile.hero_marquee[2]}** and **${profile.hero_marquee[3]}**, with an intense focus on scaling architectures.
 - 🔭 Passionate about exploring new frontiers: **Cloud, Space Engineering, IoT, and Electronics**.
 - 🗣️ Multilingual: **${profile.communication.languages.map((l) => `${l.name} (${l.cefr})`).join(", ")}**.
 - 🤝 Leadership & Execution: ${formattedTraits}.
