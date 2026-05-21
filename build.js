@@ -100,7 +100,7 @@ const readmeContent = `
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,nodejs,postgres,mysql,docker,python,rust&perline=11" alt="Web and Backend Skills" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,nodejs,postgres,mysql,graphql,postman,docker,rust&perline=11" alt="Web and Backend Skills" />
     <br />
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,spring,git,github,gitlab,bash,linux,apple,windows&perline=12" alt="Systems and Languages" />
   </a>
