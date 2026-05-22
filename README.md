@@ -8,7 +8,7 @@
   <h3>Full Stack Developer | Senior Software Engineer | Next.js & React Expert | GenAI & RAG Systems Engineer</h3>
   
   <p>📍 Metz, France | Open to opportunities in Luxembourg, Switzerland, North America (Hybrid / Remote)</p>
-  <p>🎯 Interests: <i>Web Dev • AI/RAG • Cloud • Space Engineering • IoT • Electronics</i></p>
+  <p>🎯 Interests: <i>Web Dev • Mobile Dev • AI/RAG • Cloud • Space Engineering • IoT • Electronics</i></p>
 
   <p>
     <a href="mailto:ylyamartchenko@gmail.com">
