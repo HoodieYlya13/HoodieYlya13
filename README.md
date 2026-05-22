@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.hy13dev.com">
-    <img src="https://www.hy13dev.com/img/logo.png" alt="Ylya Martchenko Logo" width="150" />
+    <img src="https://www.hy13dev.com/logo.png" alt="Ylya Martchenko Logo" width="150" />
   </a>
 
   <h1>Hi there, I'm Ylya Martchenko! 👋</h1>
