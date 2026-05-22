@@ -59,11 +59,7 @@
     }
   },
   "placement_preferences": {
-    "target_regions": [
-      "Luxembourg",
-      "Switzerland",
-      "North America"
-    ],
+    "target_regions": ["Luxembourg", "Switzerland", "North America"],
     "preference": "Hybrid / Remote",
     "technical_domains": [
       "Web Dev",
@@ -90,14 +86,7 @@
       "GraphQL",
       "REST API"
     ],
-    "polyglot_languages": [
-      "Python",
-      "C",
-      "C++",
-      "C#",
-      "Java",
-      "Rust"
-    ],
+    "polyglot_languages": ["Python", "C", "C++", "C#", "Java", "Rust"],
     "devops_and_systems": [
       "Docker",
       "Bash",
@@ -106,9 +95,7 @@
       "Windows",
       "Liquid"
     ],
-    "ai_engineering": [
-      "AI/RAG Engineering"
-    ],
+    "ai_engineering": ["AI/RAG Engineering"],
     "ecosystem_tools": [
       "Git",
       "GitHub",
@@ -267,12 +254,22 @@
       "summary": "Preparatory cycle for the Polytech network engineering schools, focusing on intensive mathematics, physics, and introductory engineering concepts."
     }
   ],
-  "pinned_repositories": [
-    "codemafia",
-    "insta-v2",
-    "schumacher-knepper-theme-dev",
-    "vibe-heist",
-    "poly-livre-fullstack",
-    "dockercraft"
-  ]
+  "repositories": {
+    "pinned_repositories": [
+      "teslimitless",
+      "ylya-bot",
+      "codemafia",
+      "poly-livre-infrastructure",
+      "vibe-heist",
+      "schumacher-knepper-theme-dev"
+    ],
+    "honorable_mentions_repositories": [
+      "insta-v2",
+      "dockercraft",
+      "eclokit",
+      "honey-pot",
+      "passkey-auth-template",
+      "portfolio"
+    ]
+  }
 }

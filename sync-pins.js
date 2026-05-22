@@ -48,11 +48,12 @@ async function syncPinnedRepos() {
     const rawData = fs.readFileSync(profilePath, "utf8");
     const profile = JSON.parse(rawData);
 
-    profile.pinned_repositories = pinnedRepoNames;
+    if (!profile.repositories) profile.repositories = {};
+    profile.repositories.pinned_repositories = pinnedRepoNames;
 
     fs.writeFileSync(profilePath, JSON.stringify(profile, null, 2) + "\n");
     console.log(
-      "✅ Successfully synchronized pinned_repositories into profile.json!",
+      "✅ Successfully synchronized pinned_repositories into profile.json under repositories!",
     );
   } catch (error) {
     console.error("Failed to sync pinned repositories:", error);
