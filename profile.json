@@ -90,7 +90,8 @@
       "PostgreSQL",
       "MySQL",
       "GraphQL",
-      "REST API"
+      "REST API",
+      "RabbitMQ"
     ],
     "polyglot_languages": [
       "Python",
@@ -102,6 +103,7 @@
     ],
     "devops_and_systems": [
       "Docker",
+      "Kubernetes (K8s)",
       "Bash",
       "Linux",
       "MacOS",
