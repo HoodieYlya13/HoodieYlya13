@@ -59,11 +59,7 @@
     }
   },
   "placement_preferences": {
-    "target_regions": [
-      "Luxembourg",
-      "Switzerland",
-      "North America"
-    ],
+    "target_regions": ["Luxembourg", "Switzerland", "North America"],
     "preference": "Hybrid / Remote",
     "technical_domains": [
       "Web Dev",
@@ -93,14 +89,7 @@
       "REST API",
       "RabbitMQ"
     ],
-    "polyglot_languages": [
-      "Python",
-      "C",
-      "C++",
-      "C#",
-      "Java",
-      "Rust"
-    ],
+    "polyglot_languages": ["Python", "C", "C++", "C#", "Java", "Rust"],
     "devops_and_systems": [
       "Docker",
       "Kubernetes (K8s)",
@@ -110,9 +99,7 @@
       "Windows",
       "Liquid"
     ],
-    "ai_engineering": [
-      "AI/RAG Engineering"
-    ],
+    "ai_engineering": ["AI/RAG Engineering"],
     "ecosystem_tools": [
       "Git",
       "GitHub",
@@ -137,7 +124,7 @@
       "location": "Villers-lès-Nancy",
       "bullets": [
         "Serving as a **Full Stack Developer** with a primary focus on scaling **Front-End** architecture using **Angular**, while advocating for **React**-based modular design patterns.",
-        "Designing and maintaining distributed backend systems using **Spring Boot** within a **microservices** architecture, ensuring seamless data flow via optimized **REST APIs**.",
+        "Designing and maintaining distributed backend systems using **Spring Boot** within a **microservices** architecture managed via **Kubernetes**, ensuring seamless asynchronous data flow via **RabbitMQ** and optimized **REST APIs**.",
         "Developing and scheduling automated **CRON jobs** for background data processing, system health checks, and asynchronous enterprise workflows."
       ],
       "main": true
