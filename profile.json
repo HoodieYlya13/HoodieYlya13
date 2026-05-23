@@ -104,6 +104,7 @@
     "devops_and_systems": [
       "Docker",
       "Kubernetes (K8s)",
+      "Jenkins",
       "Bash",
       "Linux",
       "MacOS",
@@ -138,7 +139,8 @@
       "bullets": [
         "Serving as a **Full Stack Developer** with a primary focus on scaling **Front-End** architecture using **Angular**, while advocating for **React**-based modular design patterns.",
         "Designing and maintaining distributed backend systems using **Spring Boot** within a **microservices** architecture managed via **Kubernetes**, ensuring seamless asynchronous data flow via **RabbitMQ** and optimized **REST APIs**.",
-        "Developing and scheduling automated **CRON jobs** for background data processing, system health checks, and asynchronous enterprise workflows."
+        "Developing and scheduling automated **CRON jobs** for background data processing, system health checks, and asynchronous enterprise workflows.",
+        "Orchestrating automated build, test, and deployment workflows by maintaining **Jenkins** CI/CD pipelines."
       ],
       "main": true
     },
