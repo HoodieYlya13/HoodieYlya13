@@ -20,7 +20,7 @@
     <a href="https://www.hy13dev.com">
       <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://www.hy13dev.com/Resume_Ylya_Martchenko.pdf">
+    <a href="https://resume.hy13dev.com">
       <img src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
     </a>
   </p>
