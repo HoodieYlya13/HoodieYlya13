@@ -59,11 +59,7 @@
     }
   },
   "placement_preferences": {
-    "target_regions": [
-      "Luxembourg",
-      "Switzerland",
-      "North America"
-    ],
+    "target_regions": ["Luxembourg", "Switzerland", "North America"],
     "preference": "Hybrid / Remote",
     "technical_domains": [
       "Web Dev",
@@ -93,14 +89,7 @@
       "REST API",
       "RabbitMQ"
     ],
-    "polyglot_languages": [
-      "Python",
-      "C",
-      "C++",
-      "C#",
-      "Java",
-      "Rust"
-    ],
+    "polyglot_languages": ["Python", "C", "C++", "C#", "Java", "Rust"],
     "devops_and_systems": [
       "Docker",
       "Kubernetes (K8s)",
@@ -111,9 +100,7 @@
       "Windows",
       "Liquid"
     ],
-    "ai_engineering": [
-      "AI/RAG Engineering"
-    ],
+    "ai_engineering": ["AI/RAG Engineering"],
     "ecosystem_tools": [
       "Git",
       "GitHub",
@@ -245,10 +232,10 @@
   "academic_history": [
     {
       "range": "2023 - 2026",
-      "degree": "Engineer in IARN (Informatics, Automatic, Robotics, Networks)",
+      "degree": "Engineer in IA2R (Computer Science, Automation, Robotics, and Networks)",
       "institution": "Polytech Nancy",
       "location": "Vandœuvre-lès-Nancy",
-      "summary": "Specializing in computer science, automation, robotics, and networks. This advanced engineering degree focuses on integrating software with hardware systems.",
+      "summary": "Specializing in computer science, automation, AI, robotics, and networks. This advanced engineering degree focuses on integrating software with hardware systems.",
       "main": true
     },
     {
