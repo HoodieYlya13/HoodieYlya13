@@ -59,11 +59,7 @@
     }
   },
   "placement_preferences": {
-    "target_regions": [
-      "Luxembourg",
-      "Switzerland",
-      "North America"
-    ],
+    "target_regions": ["Luxembourg", "Switzerland", "North America"],
     "preference": "Hybrid / Remote",
     "technical_domains": [
       "Web Dev",
@@ -93,14 +89,7 @@
       "REST API",
       "RabbitMQ"
     ],
-    "polyglot_languages": [
-      "Python",
-      "C",
-      "C++",
-      "C#",
-      "Java",
-      "Rust"
-    ],
+    "polyglot_languages": ["Python", "C", "C++", "C#", "Java", "Rust"],
     "devops_and_systems": [
       "Docker",
       "Kubernetes (K8s)",
@@ -111,9 +100,7 @@
       "Windows",
       "Liquid"
     ],
-    "ai_engineering": [
-      "AI/RAG Engineering"
-    ],
+    "ai_engineering": ["AI/RAG Engineering"],
     "ecosystem_tools": [
       "Git",
       "GitHub",
@@ -247,29 +234,29 @@
       "range": "2023 - 2026",
       "degree": "Engineer in IA2R (Computer Science, Automation, Robotics, and Networks)",
       "institution": "Polytech Nancy",
-      "location": "Vandœuvre-lès-Nancy",
+      "location": "Vandœuvre-lès-Nancy, France",
       "summary": "Specializing in computer science, automation, AI, robotics, and networks. This advanced engineering degree focuses on integrating software with hardware systems.",
       "main": true
     },
     {
       "range": "2022 - 2023",
       "degree": "Diploma of Higher Education in Engineering Science",
-      "institution": "F.R.U. Mathematics, computer science, mechanics",
-      "location": "Metz",
+      "institution": "Faculty of Science and Technology (UFR MIM)",
+      "location": "Metz, France",
       "summary": "Focused on foundational engineering principles including advanced mathematics, computer science fundamentals, and classical mechanics."
     },
     {
       "range": "2021 - 2022",
-      "degree": "BTEC Higher National Diploma in Physics Measures",
-      "institution": "U.I.T. Department of Measures",
-      "location": "Metz",
+      "degree": "DUT in Physics Measures",
+      "institution": "IUT de Metz – Physical Measurements Department",
+      "location": "Metz, France",
       "summary": "Studies in physical measurements, instrumentation, and applied physics. Developed strong practical skills in data acquisition and analysis."
     },
     {
       "range": "2019 - 2021",
       "degree": "PeiP (Polytech engineering schools course)",
       "institution": "Polytech Nancy",
-      "location": "Vandœuvre-lès-Nancy",
+      "location": "Vandœuvre-lès-Nancy, France",
       "summary": "Preparatory cycle for the Polytech network engineering schools, focusing on intensive mathematics, physics, and introductory engineering concepts."
     }
   ],
