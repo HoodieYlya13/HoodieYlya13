@@ -97,6 +97,6 @@
 ## 🎓 Education
 
 - **Engineer in IA2R (Computer Science, Automation, Robotics, and Networks)** | _Polytech Nancy (2023 - 2026)_
-- **Diploma of Higher Education in Engineering Science** | _F.R.U. (2022 - 2023)_
-- **BTEC Higher National Diploma in Physics Measures** | _U.I.T. (2021 - 2022)_
+- **Diploma of Higher Education in Engineering Science** | _Faculty of Science and Technology (UFR MIM) (2022 - 2023)_
+- **DUT in Physics Measures** | _IUT de Metz – Physical Measurements (2021 - 2022)_
 - **PeiP (Polytech engineering schools course)** | _Polytech Nancy (2019 - 2021)_
