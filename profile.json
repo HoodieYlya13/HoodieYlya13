@@ -283,12 +283,12 @@
       "schumacher-knepper-theme-dev"
     ],
     "honorable_mentions_repositories": [
+      "grid-sentinel",
       "insta-v2",
       "dockercraft",
       "eclokit",
       "honey-pot",
-      "passkey-auth-template",
-      "grid-sentinel"
+      "passkey-auth-template"
     ]
   }
 }
