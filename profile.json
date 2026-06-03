@@ -86,6 +86,7 @@
     ],
     "backend_and_data": [
       "Spring Boot",
+      "Django",
       "Node.js",
       "PostgreSQL",
       "MySQL",
