@@ -277,15 +277,15 @@
     "pinned_repositories": [
       "teslimitless",
       "ylya-bot",
+      "grid-sentinel",
       "codemafia",
       "poly-livre-infrastructure",
-      "vibe-heist",
-      "schumacher-knepper-theme-dev"
+      "vibe-heist"
     ],
     "honorable_mentions_repositories": [
-      "grid-sentinel",
-      "insta-v2",
+      "schumacher-knepper-theme-dev",
       "dockercraft",
+      "insta-v2",
       "eclokit",
       "honey-pot",
       "passkey-auth-template"
