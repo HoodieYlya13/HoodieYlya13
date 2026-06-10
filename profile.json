@@ -278,17 +278,17 @@
   "repositories": {
     "pinned_repositories": [
       "teslimitless",
+      "mcp-confluence-documentation-rag",
       "ylya-bot",
       "grid-sentinel",
       "codemafia",
-      "poly-livre-infrastructure",
-      "vibe-heist"
+      "poly-livre-infrastructure"
     ],
     "honorable_mentions_repositories": [
+      "vibe-heist",
       "schumacher-knepper-theme-dev",
       "dockercraft",
       "insta-v2",
-      "eclokit",
       "honey-pot",
       "passkey-auth-template"
     ]
