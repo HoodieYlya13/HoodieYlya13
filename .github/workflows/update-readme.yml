@@ -39,9 +39,9 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --local user.email "ylyamartchenko@gmail.com"
+          git config --local user.email "ylyamartchenko@proton.me"
           git config --local user.name "YlyaBot"
-          
+
           git add profile.json README.md
 
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-sync profile pins & build README" && git push)

@@ -11,7 +11,7 @@
   <p>🎯 Interests: <i>Web Dev • Mobile Dev • AI/RAG • Cloud • Space Engineering • IoT • Electronics</i></p>
 
   <p>
-    <a href="mailto:ylyamartchenko@gmail.com">
+    <a href="mailto:ylyamartchenko@proton.me">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/ylya-martchenko">
